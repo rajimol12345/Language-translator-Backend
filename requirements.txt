@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+langgraph
+langchain-core
+python-docx
+fpdf2
+ebooklib
+beautifulsoup4
+pypdf
+replicate
